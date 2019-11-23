@@ -1,0 +1,6 @@
+framework module Pods_MAPD714_Lesson_IOS {
+  umbrella header "Pods-MAPD714-Lesson-IOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
